@@ -13,6 +13,7 @@ target/
 node_modules/
 dist/
 dist-ssr/
+.vite/
 *.local
 
 # IDEs & OS
